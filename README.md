@@ -1,4 +1,9 @@
 # E02a-Operators
+
+#There is a problem that confused me a lot.
+#It's about randomize the item on the list and no matter how I fixed it, it kept printing out 'none'.
+#I have to fix it somehow.
+
 An exercise exploring python operators and data types
 
 This repository contains a few files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
