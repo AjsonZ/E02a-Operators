@@ -1,8 +1,10 @@
 # E02a-Operators
+#This is a program that need to type in the correct operator to run the program
 
 #There is a problem that confused me a lot.
 #It's about randomize the item on the list and no matter how I fixed it, it kept printing out 'none'.
 #I have to fix it somehow.
+#It was fixed and everything seems to be correct!
 
 An exercise exploring python operators and data types
 
